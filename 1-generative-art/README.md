@@ -1,5 +1,5 @@
 # Mini-Workshop 1: Generative art
-
+Testing pushing on a new Mac
 There is a new generation of artists who use their software development skills to create art. For example, check out these ou by Manoloidee:
 
 ![Generative art piece](./art-1.jpg)
